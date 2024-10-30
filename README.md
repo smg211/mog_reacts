@@ -1,4 +1,4 @@
-# mog_reacts_2024
+# mog_reacts
 This repository contains MATLAB code for detecting and decoding reactivations as in Griffin et al., 2024 (Nature). A complete description of the method is described in the paper.
 
 System Requirements:
