@@ -3,7 +3,9 @@ This repository contains MATLAB code for detecting and decoding reactivations as
 
 System Requirements:
   - MATLAB (code was tested on R2020a)
-  - ??
+  - Curve Fitting Toolbox
+  - Signal Processing Toolbox
+  - Statistics and Machine Learning Toolbox
 
 There are three main functions included in the main directory of the repository:
 - PCAReact. This function implements PCA-based detection of reactivation events, and calculates the reactivation rate for each PC during each break. Optionally, one can also determine the reactivation rate of shuffled data to determine the null distribution of reactivation rates.
